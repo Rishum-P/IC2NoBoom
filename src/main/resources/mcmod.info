@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "ic2nobang",
+    "name": "IC2 No Bang!",
+    "description": "Replacing the reactor explosion with just removing the block",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "authorList": [
+      "Rishum"
+    ],
+    "dependencies": [
+      "ic2"
+    ]
+  }
+]
